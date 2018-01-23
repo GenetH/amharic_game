@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/genet/amharic game/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/genet/amharic game/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_618d1a4468d63c538499c953982d14bd9d8fc7ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genet/amharic game/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/genet/amharic game/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_037a0af7424fbee117f3c84406bbe4a5877e08a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genet/amharic game/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/genet/amharic game/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_4ef060b8c4cf4fe38f63d2e8802b3dc63e831b67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genet/amharic game/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/home/genet/amharic game/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.0_fdd13c6e2a1d81ab6188fdf5061596028f97ed42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genet/amharic game/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/home/genet/amharic game/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.0_27328cf9f7e316b102c61e9bc6e63e78967798ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genet/amharic game/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/genet/amharic game/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_86c1731f89f2fe6be0f71d5dd69a592a66ec60ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genet/amharic game/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/genet/amharic game/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_7a0beccbea2161f0a9530cf71c2e33e4c97e023f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/genet/amharic game/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_8c116c9233e357912e708b9dbf8ea2aeb2691933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genet/amharic game/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/genet/amharic game/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_14be73ad9d446846497eba3c1e9b8934cb2ecf73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genet/amharic game/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/genet/amharic game/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_47043582003857714ea89675206932da18f998c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genet/amharic game/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/genet/amharic game/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_ece8a05e29c8ad6b7e09467f1f83e58be79854fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genet/amharic game/app/libs/pocketsphinx-android-5prealpha-nolib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ec9add00a2fb74916bc04e8e00000ff3ab9948f">
+        <dex dex="/home/genet/amharic game/app/build/intermediates/pre-dexed/debug/pocketsphinx-android-5prealpha-nolib_9378a3291f954485bc2ae483955e38b29a5926dc.jar" />
+    </item>
+
+</items>

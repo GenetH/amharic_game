@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> =  wa1 | wa2| wa3 | wa4 | wa5 | wa6| wa7 ;

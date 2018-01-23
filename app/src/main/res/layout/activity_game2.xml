@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_game2activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/ggggg"
+    tools:context="com.example.semu.firstproject1.game2">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/activity_game2startbutton"
+        android:textSize="100sp"
+        android:background="@drawable/ne"
+        android:visibility="visible"
+        android:onClick="start"
+       />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/activity_game2gamerelativelayout"
+        android:visibility="invisible"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/activity_game2timerTextView"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/activity_game2grideLayout"
+            android:layout_alignParentStart="true">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="0"
+                android:layout_row="0"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                android:layout_gravity="fill"
+                android:id="@+id/activity_game2gameButton"
+                android:textSize="100sp"
+                android:background="@android:color/holo_green_light"
+                tools:ignore="UnusedAttribute" />
+        </GridLayout>
+
+        <TextView
+            android:text="0/0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/activity_game2timerTextView"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="15dp"
+            android:layout_marginEnd="15dp"
+            android:id="@+id/activity_game2resultTextView"
+            android:background="@android:color/holo_blue_bright"
+            android:textSize="30sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="13dp"
+            android:id="@+id/activity_game2timerTextView"
+            android:text="30s"
+            android:textSize="30sp"
+            android:background="@android:color/holo_blue_bright"
+            tools:ignore="HardcodedText" />
+
+        <Button
+            android:text="የህን ይጫኑ"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/activity_game2clikehereButton"
+            android:textSize="20sp"
+            android:background="@android:color/holo_blue_bright"
+            android:layout_marginBottom="49dp"
+            android:layout_above="@+id/activity_game2addsoundButton"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="23dp"
+            android:textSize="30sp"
+            android:id="@+id/activity_game2cabtion1Textview"
+            android:layout_above="@+id/activity_game2clikehereButton"
+            android:layout_alignLeft="@+id/activity_game2clikehereButton"
+            android:layout_alignStart="@+id/activity_game2clikehereButton" />
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/activity_game2textView6"
+            android:layout_above="@+id/activity_game2resultTextView" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/activity_game2correctTextView"
+            android:textSize="30sp"
+            android:visibility="invisible"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <Button
+            android:text="playagine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/activity_game2playaginebutton"
+            android:background="@android:color/holo_blue_bright"
+            android:textSize="20sp"
+            android:visibility="invisible"
+            android:layout_alignBaseline="@+id/activity_game2correctTextView"
+            android:layout_alignBottom="@+id/activity_game2correctTextView"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/activity_game2addsoundButton"
+            android:background="@android:color/holo_blue_bright"
+            android:textSize="20sp"
+            android:layout_marginBottom="49dp"
+            android:text="ድምጽ ያሰሙ"
+            android:layout_above="@+id/activity_game2playaginebutton"
+            android:layout_toRightOf="@+id/activity_game2cabtion1Textview"
+            android:layout_toEndOf="@+id/activity_game2cabtion1Textview" />
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorAccent"
+            android:layout_above="@+id/activity_game2playaginebutton"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/textView9"
+            android:textSize="@dimen/item_touch_helper_max_drag_scroll_per_frame"
+            android:visibility="invisible" />
+    </RelativeLayout>
+</RelativeLayout>

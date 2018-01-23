@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> =  che1 | che2| che3 | che4 | che5 | che6| che7 ;

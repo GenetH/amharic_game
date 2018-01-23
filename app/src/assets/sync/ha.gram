@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> =  ha1 | ha2| ha3 | ha4 | ha5 | ha6| ha7 ;

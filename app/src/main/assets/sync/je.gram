@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> =  du1 | du2| du3 | du4 | du5 | du6| du7 ;

@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <menu> = me1 | me2 | me3 | me4 | me5| me6 | me7;

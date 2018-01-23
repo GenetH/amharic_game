@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> =  ta1 | ta2| ta3 | ta4 | ta5 | ta6| ta7 ;

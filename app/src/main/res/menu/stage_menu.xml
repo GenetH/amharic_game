@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/button1"
+        android:title="ጨዋታ 1"/>
+
+    <item
+        android:id="@+id/button2"
+        android:title="ጨዋታ 2"
+
+        />
+    <item
+        android:id="@+id/button3"
+        android:title="ጨዋታ 3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <item
+        android:id="@+id/button4"
+        android:title="ጨዋታ 4"
+
+        />
+    <item
+        android:id="@+id/button5"
+        android:title="ጨዋታ 5"
+
+        />
+    <item
+        android:id="@+id/button6"
+        android:title="ጨዋታ 6"
+
+        />
+</menu>

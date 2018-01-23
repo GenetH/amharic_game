@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> =  le1 | le2 | le3 | le4 | le5 | le7 ;

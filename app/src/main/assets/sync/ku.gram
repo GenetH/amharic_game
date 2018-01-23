@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> =  ku1 | ku2| ku3 | ku4 | ku5 | ku6| ku7 ;
